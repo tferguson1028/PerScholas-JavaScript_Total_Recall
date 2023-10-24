@@ -25,7 +25,11 @@ let b = a;
 /*
   Q: Remind me, what are declare, assign, and define?
   A: Declare creates a new variable without any value, assign puts a value onto the variable, define is initializing a variable on declaration.
-*/  
+*/
+
+let c; // Declaration
+c = 6; // Assignment
+let d = 6; // Defining 
   
 /*
   Q: What is pseudocoding and why should you do it?
@@ -37,5 +41,5 @@ let b = a;
 
 /*  
   Q: What percentage of time should be spent thinking about how you're going to solve a problem vs actually typing in code to solve it?
-  A: 
+  A: 90% Thinking, 10% Coding. That's what Google taught me.
 */
